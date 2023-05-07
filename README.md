@@ -1,5 +1,3 @@
-</div>
-
 <div align='center'>
   
 Hi there, I'm Gui! 🦎
