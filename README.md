@@ -1,6 +1,6 @@
 <div align='center'>
   
-Hi there, I'm Gui! 🦎
+Hi there 👋🏼
 
 ![perry](perry.gif)
 
